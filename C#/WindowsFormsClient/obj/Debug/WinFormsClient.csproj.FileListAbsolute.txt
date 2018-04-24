@@ -1,0 +1,68 @@
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\WinFormsClient.exe.config
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\WinFormsClient.exe
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\WinFormsClient.pdb
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\obj\Debug\WinFormsClient.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\obj\Debug\WinFormsClient.WinFormsClient.resources
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\obj\Debug\WinFormsClient.Properties.Resources.resources
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\obj\Debug\WinFormsClient.csproj.GenerateResource.Cache
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\obj\Debug\WinFormsClient.exe
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\obj\Debug\WinFormsClient.pdb
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\Npgsql.dll
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\Npgsql.xml
+C:\Users\Adrian Surma\Downloads\Compressed\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\WinFormsClient.exe.config
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\WinFormsClient.exe
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\WinFormsClient.pdb
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\Npgsql.dll
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\Npgsql.xml
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\obj\Debug\WinFormsClient.csprojResolveAssemblyReference.cache
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\obj\Debug\WinFormsClient.WinFormsClient.resources
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\obj\Debug\WinFormsClient.Properties.Resources.resources
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\obj\Debug\WinFormsClient.csproj.GenerateResource.Cache
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\obj\Debug\WinFormsClient.exe
+E:\Projects\Using SignalR in WinForms and WPF\C#\WindowsFormsClient\obj\Debug\WinFormsClient.pdb
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\WinFormsClient.exe.config
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\obj\Debug\WinFormsClient.exe
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\obj\Debug\WinFormsClient.pdb
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\WinFormsClient.exe
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\WinFormsClient.pdb
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Npgsql.dll
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Npgsql.xml
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\obj\Debug\WinFormsClient.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\obj\Debug\WinFormsClient.WinFormsClient.resources
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\obj\Debug\WinFormsClient.Properties.Resources.resources
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\obj\Debug\WinFormsClient.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\obj\Debug\WinFormsClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\obj\Debug\WinFormsClient.csproj.CopyComplete
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\SignalRChat.exe
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Owin.dll
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Microsoft.Owin.dll
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\System.Web.Cors.dll
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\SignalRChat.pdb
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\SignalRChat.exe.config
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\user\Downloads\Music\Using-SignalR-in-WinForms-and-WPF-master\Using-SignalR-in-WinForms-and-WPF-master\C#\WindowsFormsClient\bin\Debug\Microsoft.Owin.xml
